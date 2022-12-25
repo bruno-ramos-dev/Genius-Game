@@ -1,7 +1,5 @@
 # Jogo Genius
 
-https://brunoramos88.github.io/Genius-Game/
-
 - CSS
   - Variáveis CSS
   - Unidade rem
