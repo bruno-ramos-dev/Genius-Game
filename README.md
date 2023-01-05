@@ -3,7 +3,7 @@
 - CSS
   - Variáveis CSS
   - Unidade rem
-  - BEM
+  - BEM CSS
   - Flexbox
   - Pseudo-elementos
   - Media Queries
@@ -14,9 +14,8 @@
   - .classList
   - .forEach()
   - .push()
-  - for Loop
-  - if else statements
-  - carregar sons
   - setTimeout()
   - setInterval()
+  
+  https://bruno-ramos-dev.github.io/Genius-Game/
 
